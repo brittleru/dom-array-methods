@@ -53,6 +53,7 @@ function calculateWealth() {
   const wealthEl = document.createElement("div");
   wealthEl.innerHTML = `<h3>Total Wealth: <strong>${formatMoney(wealth)}</strong></h3>`;
   main.appendChild(wealthEl);
+  // updateDOM();
 }
 
 // Add new obj to data Array
