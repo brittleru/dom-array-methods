@@ -60,7 +60,9 @@ h2 {
 
 h3 {
   background-color: #3282b8;
-  border-bottom: 1px solid #3282b8;
+  border-bottom: 2px solid #1b262c;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   padding: 10px;
   display: flex;
   justify-content: space-between;
